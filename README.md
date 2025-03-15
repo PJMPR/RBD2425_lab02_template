@@ -12,7 +12,9 @@ Na dzisiejszych zajęciach diagramy ERD należy opracować w jednym z poniższyc
 W **dwuosobowych zespołach** przedyskutujcie poniższe kwestie:
 
 ✅ Jakie **zadania** ma pomóc realizować projektowana baza danych?
+
 ✅ Jaki **wycinek rzeczywistości** ta baza ma reprezentować?
+
 ✅ Jakie **dane** muszą być zbierane do realizacji tych zadań?
 
 ---
