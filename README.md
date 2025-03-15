@@ -18,7 +18,11 @@ W **dwuosobowych zespołach** przedyskutujcie poniższe kwestie:
 ---
 
 ## 🖥️ Tworzenie Diagramu ERD
-Po wstępnej analizie, w tych samych zespołach **zamodelujcie diagram ERD** przy użyciu **Vertabelo** lub **Draw.io**.
+Po wstępnej analizie, w tych samych zespołach **zamodelujcie diagram ERD** przy użyciu jednego z poniższych narzędzi:
+
+- **[dbdiagram](https://dbdiagram.io/)**
+- **[Vertabelo](https://vertabelo.com/)**
+- **[draw.io](https://app.diagrams.net/)**
 
 Diagram powinien zawierać:
 - **Encje** wraz z ich **atrybutami**,
